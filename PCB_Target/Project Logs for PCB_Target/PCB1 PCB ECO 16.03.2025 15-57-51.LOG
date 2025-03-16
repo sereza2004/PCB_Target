@@ -1,0 +1,4 @@
+Added Component: Designator=P12(PCB_Pin_1)
+Added Pin To Net: NetName=NetP9_0 Pin=P12-0
+Added Member To Class: ClassName=board_Two Member=Component P12 PIN_1
+Added Member To Class: ClassName=board_Two Member=Component U(1)2 ATMega328p

@@ -1,0 +1,6 @@
+Added Component: Designator=P7(PCB_Pin_1)
+Added Pin To Net: NetName=NetP7_0 Pin=P7-0
+Added Pin To Net: NetName=NetP7_0 Pin=U1-1
+Added Pin To Net: NetName=NetP7_0 Pin=VR1-2
+Added Net: Name=NetP7_0
+Added Member To Class: ClassName=board_One Member=Component P7 PIN_1

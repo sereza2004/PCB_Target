@@ -1,0 +1,71 @@
+Added Component: Designator=P8(PCB_Pin_1)
+Added Component: Designator=P9(PCB_Pin_1)
+Added Component: Designator=P10(PCB_Pin_1)
+Added Component: Designator=P11(PCB_Pin_1)
+Added Component: Designator=P12(PCB_Pin_1)
+Added Component: Designator=P13(PCB_Pin_1)
+Added Component: Designator=P14(PCB_Pin_1)
+Added Component: Designator=P15(PCB_Pin_1)
+Added Component: Designator=P16(PCB_Pin_1)
+Added Component: Designator=U2(2)(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AMS1117-5.0/ams/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ams"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-5.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223 Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AMS1117-5.0/ams/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U(1)2(PCB_ATMega328p)
+Added Component: Designator=U(XCVR_NRF24L01P-MODULE-PCB)
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=230534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NRF24L01P-MODULE-PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NRF24L01P-MODULE-PCB/Nordic%20Semiconductor%20ASA/view-part/230534/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP8_0 Pin=P8-0
+Added Pin To Net: NetName=NetP9_0 Pin=P9-0
+Added Pin To Net: NetName=NetP10_0 Pin=P10-0
+Added Pin To Net: NetName=NetP11_0 Pin=P11-0
+Added Pin To Net: NetName=NetP9_0 Pin=P12-0
+Added Pin To Net: NetName=NetP8_0 Pin=P16-0
+Added Pin To Net: NetName=NetP9_0 Pin=U2(2)-1
+Added Pin To Net: NetName=NetU2(2)_2 Pin=U2(2)-2
+Added Pin To Net: NetName=NetP8_0 Pin=U2(2)-3
+Added Pin To Net: NetName=NetP8_0 Pin=U(1)2-0
+Added Pin To Net: NetName=NetU(1)2_14 Pin=U(1)2-14
+Added Pin To Net: NetName=NetU(1)2_15 Pin=U(1)2-15
+Added Pin To Net: NetName=NetP11_0 Pin=U(1)2-22
+Added Pin To Net: NetName=NetP10_0 Pin=U(1)2-24
+Added Pin To Net: NetName=NetP9_0 Pin=U(1)2-26
+Added Pin To Net: NetName=NetP9_0 Pin=U-1
+Added Pin To Net: NetName=NetU2(2)_2 Pin=U-2
+Added Pin To Net: NetName=NetU(1)2_14 Pin=U-5
+Added Pin To Net: NetName=NetU(1)2_15 Pin=U-7
+Added Pin To Net: NetName=NetP13_0 Pin=P13-0
+Added Pin To Net: NetName=NetP13_0 Pin=U-4
+Added Pin To Net: NetName=NetP13_0 Pin=U(1)2-17
+Added Net: Name=NetP13_0
+Added Pin To Net: NetName=NetP14_0 Pin=P14-0
+Added Pin To Net: NetName=NetP14_0 Pin=U-3
+Added Pin To Net: NetName=NetP14_0 Pin=U(1)2-18
+Added Net: Name=NetP14_0
+Added Pin To Net: NetName=NetP15_0 Pin=P15-0
+Added Pin To Net: NetName=NetP15_0 Pin=U-6
+Added Pin To Net: NetName=NetP15_0 Pin=U(1)2-16
+Added Net: Name=NetP15_0
+Added Member To Class: ClassName=board_Two Member=Component P8 PIN_1
+Added Member To Class: ClassName=board_Two Member=Component P9 PIN_1
+Added Member To Class: ClassName=board_Two Member=Component P10 PIN_1
+Added Member To Class: ClassName=board_Two Member=Component P11 PIN_1
+Added Member To Class: ClassName=board_Two Member=Component P12 PIN_1
+Added Member To Class: ClassName=board_Two Member=Component P13 PIN_1
+Added Member To Class: ClassName=board_Two Member=Component P14 PIN_1
+Added Member To Class: ClassName=board_Two Member=Component P15 PIN_1
+Added Member To Class: ClassName=board_Two Member=Component P16 PIN_1
+Added Member To Class: ClassName=board_Two Member=Component U2(2) AMS1117-5.0
+Added Member To Class: ClassName=board_Two Member=Component U(1)2 ATMega328p
+Added Member To Class: ClassName=board_Two Member=Component U NRF24L01P-MODULE-PCB

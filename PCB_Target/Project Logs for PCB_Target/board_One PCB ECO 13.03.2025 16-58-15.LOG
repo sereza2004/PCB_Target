@@ -1,0 +1,47 @@
+Added Component: Designator=D1(DIOM7959X265N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS34/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMC-2 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS34/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P0(PCB_Pin_1)
+Added Component: Designator=P1(PCB_Pin_1)
+Added Component: Designator=P2(PCB_Pin_1)
+Added Component: Designator=P3(PCB_Pin_1)
+Added Component: Designator=P4(PCB_Pin_1)
+Added Component: Designator=P5(PCB_Pin_1)
+Added Component: Designator=P6(PCB_Pin_1)
+Added Component: Designator=U1(PCB_XY-MC10)
+Added Component: Designator=VR1(DC-DC Step-Down Footprint)
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=P0-0
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD1_C Pin=D1-C
+Added Pin To Net: NetName=NetD1_C Pin=VR1-1
+Added Net: Name=NetD1_C
+Added Pin To Net: NetName=NetP1_0 Pin=P1-0
+Added Pin To Net: NetName=NetP1_0 Pin=VR1-0
+Added Net: Name=NetP1_0
+Added Pin To Net: NetName=NetP2_0 Pin=P2-0
+Added Pin To Net: NetName=NetP2_0 Pin=U1-2
+Added Net: Name=NetP2_0
+Added Pin To Net: NetName=NetP3_0 Pin=P3-0
+Added Pin To Net: NetName=NetP3_0 Pin=U1-3
+Added Net: Name=NetP3_0
+Added Pin To Net: NetName=NetP4_0 Pin=P4-0
+Added Pin To Net: NetName=NetP4_0 Pin=U1-4
+Added Net: Name=NetP4_0
+Added Pin To Net: NetName=NetP5_0 Pin=P5-0
+Added Pin To Net: NetName=NetP5_0 Pin=U1-6
+Added Net: Name=NetP5_0
+Added Pin To Net: NetName=NetP6_0 Pin=P6-0
+Added Pin To Net: NetName=NetP6_0 Pin=U1-5
+Added Net: Name=NetP6_0
+Added Pin To Net: NetName=NetU1_0 Pin=U1-0
+Added Pin To Net: NetName=NetU1_0 Pin=VR1-3
+Added Net: Name=NetU1_0
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=VR1-2
+Added Net: Name=NetU1_1
+Added Class: Name=board_One
